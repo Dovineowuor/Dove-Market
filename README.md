@@ -1,21 +1,24 @@
+# Dove-Market
+
 ### Dove-Market
+
 This is a project to build a cloud market to help sellers source clients from the palm of their hands, prospecting, managing orders and driving sales, and customers get to rent or buy products. 
- 
-### Dove-Market
 
 
 * Overview 
 
 Dove-Market is a simple e-comerce web application built with Python and Flask that allows sellers and buyers to shuffle and search for houses. The app helps sellers source leads and sales as buyers are able to look for their respective products of need. Users can interact easily with house owners without the interrogation of brokers.
 
-*Team
+* ## Team
 
 Dovine Owuor, Vianney YOVO and Kenneth Njoroge are the only members of this project. Only Dovine Owuor gave in and did research and wrote this proposal alone as the other parties aren't responsive may be due to some uncommunicated unavoidable circumstances. I decided to ideate and work alone since I couldn't find any other partners to collaborate with me. I am a full stack developer who participated in both backend and front-end software engineering, working on the system design, database, and REST API.
 
 ## Goals
+
+This is a project to build a cloud market to help sellers source clients from the palm of their hands, prospecting, managing orders and driving sales, and customers get to rent or buy products.
 Help in sourcing leads ad converting them into sales. 
 Bettering marketing experiences.
-Improving prospecting techniques
+Improving prospecting techniques.
 
 ## Technology
 
