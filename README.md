@@ -11,7 +11,11 @@ Dove-Market is a simple e-comerce web application built with Python and Flask th
 
 * ## Team
 
-Dovine Owuor, Vianney YOVO and Kenneth Njoroge are the only members of this project. Only Dovine Owuor gave in and did research and wrote this proposal alone as the other parties aren't responsive may be due to some uncommunicated unavoidable circumstances. I decided to ideate and work alone since I couldn't find any other partners to collaborate with me. I am a full stack developer who participated in both backend and front-end software engineering, working on the system design, database, and REST API.
+1. [Dovine Owuor](https://dovineowuor.github.io),
+
+2. [Vianney YOVO](https://github.com/vianneyyovo) and 
+
+3. [Kenneth Njoroge](https:github.com/kennethnjoroge) are the only members of this project. Only Dovine Owuor gave in and did research and wrote this proposal alone as the other parties aren't responsive may be due to some uncommunicated unavoidable circumstances. I decided to ideate and work alone since I couldn't find any other partners to collaborate with me. I am a full stack developer who participated in both backend and front-end software engineering, working on the system design, database, and REST API.
 
 ## Goals
 
