@@ -1,6 +1,4 @@
 # [Dove-Market](https://github.com/dovineowuor/Dove-Market)
-
-  # Dove-market
   
   ### Dove-Market
 
