@@ -1,7 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
 
 body {
   margin: 0;
@@ -9,42 +6,22 @@ body {
 }
 :root {
   /* fonts */
-  --font-lexend: Lexend;
-  --font-encode-sans-condensed: "Encode Sans Condensed";
-  --font-libre-caslon-text: "Libre Caslon Text";
-  --font-inherit: inherit;
+  --font-roboto: Roboto;
 
   /* font sizes */
-  --font-size-xs: 13px;
-  --font-size-sm: 14px;
-  --font-size-base: 16px;
-  --font-size-lg: 20px;
-  --font-size-xl: 24px;
-  --font-size-2xl: 30px;
+  --font-size-sm: 11px;
+  --font-size-base: 12px;
+  --font-size-lg: 13px;
 
   /* Colors */
-  --white: #fff;
-  --background-3: #f3f9fb;
-  --backgorund-1: #f5f5f5;
-  --border: #ededed;
-  --line: #d9d9d9;
-  --text: #666;
-  --color-gray-600: #222;
-  --primary: #008ecc;
-  --color-black: #000;
-  --color-green: #249b3e;
-
-  /* Gaps */
-  --gap-sm: 6px;
-  --gap-md: 16px;
-  --gap-lg: 20px;
-
-  /* Paddings */
-  --padding-sm: 9px;
-  --padding-md: 21px;
+  --color-white: #fff;
+  --color-gray-100: #a2a6ac;
+  --color-gray-200: #111;
+  --color-indigo: #0066c0;
+  --color-tan-100: #9c7e31;
 
   /* border radiuses */
-  --br-sm: 15px;
-  --br-md: 16px;
-  --br-lg: 62px;
+  --br-sm: 2px;
+  --br-md: 3px;
+  --br-lg: 4px;
 }
