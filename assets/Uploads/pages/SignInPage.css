@@ -1,0 +1,463 @@
+.rectangle206 {
+  top: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  height: 281px;
+}
+.rectangle206,
+.rectangle207,
+.rectangle208 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.rectangle207 {
+  top: 0;
+  border-radius: var(--br-md);
+  height: 279px;
+}
+.rectangle208 {
+  top: calc(50% - 42.5px);
+  background-color: #a88734;
+  height: 1px;
+}
+.rectangle209,
+.rectangle210 {
+  position: absolute;
+  height: 29px;
+}
+.rectangle209 {
+  width: 0.34%;
+  top: calc(50% - 41.5px);
+  right: -0.34%;
+  left: 100%;
+  background-color: var(--color-tan-100);
+}
+.rectangle210 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f0c14b;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+}
+.rectangle211 {
+  border-radius: var(--br-xs);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+.rectangle211,
+.rectangle212 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 29px;
+}
+.continue {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 26px);
+  line-height: 29px;
+  display: inline-block;
+  width: 52px;
+}
+.frame10,
+.frame11 {
+  position: absolute;
+  height: 29px;
+}
+.frame11 {
+  width: 99.32%;
+  top: 0;
+  right: 0.34%;
+  left: 0.34%;
+  overflow: hidden;
+}
+.frame10 {
+  width: 100%;
+  top: calc(50% - 41.5px);
+  right: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+}
+.by-continuing-you-agree-to-do {
+  margin: 0;
+  position: absolute;
+  width: 79.05%;
+  top: 36px;
+  left: 0;
+  font-size: inherit;
+  line-height: 18px;
+  font-family: inherit;
+  display: inline-block;
+}
+.conditions-of-use2 {
+  text-decoration: none;
+  width: 92.57%;
+  top: 2px;
+  left: 0;
+  color: inherit;
+}
+.and,
+.conditions-of-use2,
+.pre,
+.privacy-notice2 {
+  position: absolute;
+  line-height: 18px;
+  display: inline-block;
+}
+.privacy-notice2 {
+  text-decoration: none;
+  width: 26.01%;
+  top: 2px;
+  left: 46.28%;
+  color: inherit;
+}
+.and,
+.pre {
+  margin: 0;
+  width: 9.12%;
+  top: 0;
+  left: 35.47%;
+  font-size: inherit;
+  font-family: inherit;
+  color: var(--color-gray-1300);
+}
+.pre {
+  width: 1.01%;
+  top: 18px;
+  left: 42.23%;
+}
+.frame12,
+.rectangle213 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.frame12 {
+  top: 49px;
+  height: 36px;
+  color: var(--color-indigo-100);
+}
+.rectangle213 {
+  top: calc(50% - 12.5px);
+  background-color: #846a29;
+  height: 1px;
+}
+.rectangle214 {
+  position: absolute;
+  width: 0.34%;
+  top: calc(50% - 41.5px);
+  right: 100%;
+  left: -0.34%;
+  background-color: var(--color-tan-100);
+  height: 29px;
+}
+.frame9 {
+  position: absolute;
+  width: 85.06%;
+  top: 133px;
+  right: 7.47%;
+  left: 7.47%;
+  height: 85px;
+  font-size: var(--font-size-xl);
+}
+.need-help,
+.sign-in2 {
+  position: absolute;
+  display: inline-block;
+}
+.sign-in2 {
+  width: 24.71%;
+  top: 20px;
+  left: 7.47%;
+  font-size: 28px;
+  line-height: 33.6px;
+}
+.need-help {
+  text-decoration: none;
+  width: 86.45%;
+  top: -2px;
+  left: 14.19%;
+  line-height: 19px;
+  color: inherit;
+}
+.image-icon235 {
+  position: absolute;
+  width: 9.03%;
+  top: 4px;
+  right: 90.97%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 7px;
+  object-fit: cover;
+}
+.frame13 {
+  position: absolute;
+  width: 22.27%;
+  top: 242px;
+  right: 70.26%;
+  left: 7.47%;
+  height: 15px;
+  color: var(--color-indigo-100);
+}
+.rectangle215 {
+  border: 1px solid var(--color-orange-200);
+  background-color: var(--color-white);
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 5px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  box-shadow: 0 0 3px rgba(228, 121, 17, 0.5);
+  box-sizing: border-box;
+  height: 31px;
+}
+.email-or-mobile-phone-number {
+  position: absolute;
+  width: 64.53%;
+  top: 0;
+  left: 0.68%;
+  line-height: 19px;
+  display: inline-block;
+}
+.frame14,
+.frame8 {
+  position: absolute;
+  width: 85.06%;
+  top: 67px;
+  right: 7.47%;
+  left: 7.47%;
+  height: 52px;
+}
+.frame8 {
+  width: 99.43%;
+  top: 1px;
+  right: 0.29%;
+  left: 0.29%;
+  height: 279px;
+}
+.frame7,
+.rectangle216 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 281px;
+}
+.rectangle216 {
+  background-color: var(--color-white);
+  height: 12px;
+}
+.new-to-dove-market {
+  position: absolute;
+  top: -1px;
+  left: calc(50% - 45.5px);
+  line-height: 12px;
+  display: inline-block;
+  width: 116px;
+}
+.frame15 {
+  text-decoration: none;
+  position: absolute;
+  top: 306px;
+  left: calc(50% - 53px);
+  width: 139px;
+  height: 12px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: #767676;
+}
+.rectangle217 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 149.5px);
+  right: 0;
+  left: 0;
+  background-color: #adb1b8;
+  height: 1px;
+}
+.rectangle218,
+.rectangle219 {
+  position: absolute;
+  width: 0.29%;
+  top: calc(50% + 150.5px);
+  right: 100%;
+  left: -0.29%;
+  background-color: var(--color-gray-600);
+  height: 29px;
+}
+.rectangle219 {
+  right: -0.29%;
+  left: 100%;
+}
+.rectangle220,
+.rectangle221,
+.rectangle222 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.rectangle220 {
+  top: calc(50% + 179.5px);
+  background-color: #8d9096;
+  height: 1px;
+}
+.rectangle221,
+.rectangle222 {
+  top: 0;
+  height: 29px;
+}
+.rectangle221 {
+  border-radius: var(--br-sm);
+  background-color: #e7e9ec;
+}
+.rectangle222 {
+  border-radius: var(--br-xs);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+.create-your-dove-market-accoun {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 96px);
+  font-size: var(--font-size-2xl);
+  line-height: 29px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-1300);
+  text-align: center;
+  display: inline-block;
+  width: 192px;
+}
+.frame16,
+.frame17 {
+  position: absolute;
+  height: 29px;
+}
+.frame17 {
+  width: 99.43%;
+  top: 0;
+  right: 0.29%;
+  left: 0.29%;
+  overflow: hidden;
+}
+.frame16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100%;
+  top: calc(50% + 150.5px);
+  right: 0;
+  left: 0;
+}
+.frame6,
+.rectangle223 {
+  position: absolute;
+  width: 29.17%;
+  top: 63px;
+  right: 35.42%;
+  left: 35.42%;
+  height: 361px;
+}
+.rectangle223 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 44px;
+}
+.conditions-of-use3,
+.privacy-notice3 {
+  text-decoration: none;
+  top: 0;
+  line-height: 16.11px;
+  color: inherit;
+  display: inline-block;
+}
+.conditions-of-use3 {
+  position: absolute;
+  left: calc(50% - 116px);
+  width: 90px;
+}
+.privacy-notice3 {
+  left: calc(50% - 3px);
+  width: 73px;
+}
+.frame19,
+.help,
+.privacy-notice3 {
+  position: absolute;
+}
+.help {
+  text-decoration: none;
+  top: 0;
+  left: calc(50% + 93px);
+  line-height: 16.11px;
+  color: inherit;
+  display: inline-block;
+  width: 26px;
+}
+.frame19 {
+  width: 100%;
+  top: 26px;
+  right: 0;
+  left: 0;
+  height: 16px;
+}
+.dove-market-inc2 {
+  position: absolute;
+  top: 54px;
+  left: calc(50% - 114px);
+  font-size: var(--font-size-base);
+  line-height: 16.11px;
+  color: var(--color-gray-900);
+  display: inline-block;
+  width: 227px;
+}
+.frame18 {
+  position: absolute;
+  width: 97%;
+  top: 450px;
+  right: 1.5%;
+  left: 1.5%;
+  height: 71px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-indigo-100);
+}
+.dove-marketlogos-12x-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 7px;
+  left: 563px;
+  width: 66px;
+  height: 57px;
+  background-image: url(../../public/dovemarketlogos12x-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.sign-in-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-1300);
+  font-family: var(--font-roboto);
+}
