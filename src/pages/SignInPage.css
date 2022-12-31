@@ -1,95 +1,92 @@
-.rectangle {
+.rectangle206 {
   top: 0;
-  border-radius: var(--br-lg);
+  border-radius: var(--br-md);
   background-color: var(--color-white);
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-gray-400);
   box-sizing: border-box;
   height: 281px;
 }
-.rectangle,
-.rectangle1,
-.rectangle2 {
+.rectangle206,
+.rectangle207,
+.rectangle208 {
   position: absolute;
   width: 100%;
   right: 0;
   left: 0;
 }
-.rectangle1 {
+.rectangle207 {
   top: 0;
-  border-radius: var(--br-lg);
+  border-radius: var(--br-md);
   height: 279px;
 }
-.rectangle2 {
+.rectangle208 {
   top: calc(50% - 42.5px);
   background-color: #a88734;
   height: 1px;
 }
-.rectangle3 {
+.rectangle209,
+.rectangle210 {
   position: absolute;
+  height: 29px;
+}
+.rectangle209 {
   width: 0.34%;
   top: calc(50% - 41.5px);
   right: -0.34%;
   left: 100%;
   background-color: var(--color-tan-100);
-  height: 29px;
 }
-.rectangle4,
-.rectangle5 {
-  width: 100%;
-  right: 0;
-  left: 0;
-  height: 29px;
-}
-.rectangle4 {
+.rectangle210 {
   cursor: pointer;
   border: 0;
   padding: 0;
   background-color: #f0c14b;
-  position: absolute;
+  width: 100%;
   top: 0;
-  border-radius: var(--br-md);
-}
-.rectangle5 {
+  right: 0;
+  left: 0;
   border-radius: var(--br-sm);
+}
+.rectangle211 {
+  border-radius: var(--br-xs);
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 }
-.continue,
-.rectangle5,
-.rectangle6 {
+.rectangle211,
+.rectangle212 {
   position: absolute;
-  top: 0;
-}
-.rectangle6 {
   width: 100%;
+  top: 0;
   right: 0;
   left: 0;
   height: 29px;
 }
 .continue {
+  position: absolute;
+  top: 0;
   left: calc(50% - 26px);
   line-height: 29px;
   display: inline-block;
   width: 52px;
 }
-.frame4,
-.frame5 {
+.frame10,
+.frame11 {
   position: absolute;
   height: 29px;
 }
-.frame5 {
+.frame11 {
   width: 99.32%;
   top: 0;
   right: 0.34%;
   left: 0.34%;
   overflow: hidden;
 }
-.frame4 {
+.frame10 {
   width: 100%;
   top: calc(50% - 41.5px);
   right: 0;
   left: 0;
   text-align: center;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-2xl);
 }
 .by-continuing-you-agree-to-do {
   margin: 0;
@@ -102,7 +99,7 @@
   font-family: inherit;
   display: inline-block;
 }
-.conditions-of-use {
+.conditions-of-use2 {
   text-decoration: none;
   width: 92.57%;
   top: 2px;
@@ -110,14 +107,14 @@
   color: inherit;
 }
 .and,
-.conditions-of-use,
+.conditions-of-use2,
 .pre,
-.privacy-notice {
+.privacy-notice2 {
   position: absolute;
   line-height: 18px;
   display: inline-block;
 }
-.privacy-notice {
+.privacy-notice2 {
   text-decoration: none;
   width: 26.01%;
   top: 2px;
@@ -132,31 +129,31 @@
   left: 35.47%;
   font-size: inherit;
   font-family: inherit;
-  color: var(--color-gray-200);
+  color: var(--color-gray-1300);
 }
 .pre {
   width: 1.01%;
   top: 18px;
   left: 42.23%;
 }
-.frame6,
-.rectangle7 {
+.frame12,
+.rectangle213 {
   position: absolute;
   width: 100%;
   right: 0;
   left: 0;
 }
-.frame6 {
+.frame12 {
   top: 49px;
   height: 36px;
-  color: var(--color-indigo);
+  color: var(--color-indigo-100);
 }
-.rectangle7 {
+.rectangle213 {
   top: calc(50% - 12.5px);
   background-color: #846a29;
   height: 1px;
 }
-.rectangle8 {
+.rectangle214 {
   position: absolute;
   width: 0.34%;
   top: calc(50% - 41.5px);
@@ -165,21 +162,21 @@
   background-color: var(--color-tan-100);
   height: 29px;
 }
-.frame3 {
+.frame9 {
   position: absolute;
   width: 85.06%;
   top: 133px;
   right: 7.47%;
   left: 7.47%;
   height: 85px;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-xl);
 }
 .need-help,
-.sign-in {
+.sign-in2 {
   position: absolute;
   display: inline-block;
 }
-.sign-in {
+.sign-in2 {
   width: 24.71%;
   top: 20px;
   left: 7.47%;
@@ -194,7 +191,7 @@
   line-height: 19px;
   color: inherit;
 }
-.image-icon {
+.image-icon235 {
   position: absolute;
   width: 9.03%;
   top: 4px;
@@ -205,24 +202,24 @@
   height: 7px;
   object-fit: cover;
 }
-.frame7 {
+.frame13 {
   position: absolute;
   width: 22.27%;
   top: 242px;
   right: 70.26%;
   left: 7.47%;
   height: 15px;
-  color: var(--color-indigo);
+  color: var(--color-indigo-100);
 }
-.rectangle9 {
-  border: 1px solid #e77600;
+.rectangle215 {
+  border: 1px solid var(--color-orange-200);
   background-color: var(--color-white);
   position: absolute;
   width: 100%;
   top: calc(50% - 5px);
   right: 0;
   left: 0;
-  border-radius: var(--br-md);
+  border-radius: var(--br-sm);
   box-shadow: 0 0 3px rgba(228, 121, 17, 0.5);
   box-sizing: border-box;
   height: 31px;
@@ -235,7 +232,7 @@
   line-height: 19px;
   display: inline-block;
 }
-.frame2,
+.frame14,
 .frame8 {
   position: absolute;
   width: 85.06%;
@@ -244,15 +241,15 @@
   left: 7.47%;
   height: 52px;
 }
-.frame2 {
+.frame8 {
   width: 99.43%;
   top: 1px;
   right: 0.29%;
   left: 0.29%;
   height: 279px;
 }
-.frame1,
-.rectangle10 {
+.frame7,
+.rectangle216 {
   position: absolute;
   width: 100%;
   top: 0;
@@ -260,7 +257,7 @@
   left: 0;
   height: 281px;
 }
-.rectangle10 {
+.rectangle216 {
   background-color: var(--color-white);
   height: 12px;
 }
@@ -272,7 +269,7 @@
   display: inline-block;
   width: 116px;
 }
-.frame9 {
+.frame15 {
   text-decoration: none;
   position: absolute;
   top: 306px;
@@ -280,10 +277,10 @@
   width: 139px;
   height: 12px;
   text-align: center;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-xl);
   color: #767676;
 }
-.rectangle11 {
+.rectangle217 {
   position: absolute;
   width: 100%;
   top: calc(50% + 149.5px);
@@ -292,71 +289,71 @@
   background-color: #adb1b8;
   height: 1px;
 }
-.rectangle12,
-.rectangle13 {
+.rectangle218,
+.rectangle219 {
   position: absolute;
   width: 0.29%;
   top: calc(50% + 150.5px);
   right: 100%;
   left: -0.29%;
-  background-color: var(--color-gray-100);
+  background-color: var(--color-gray-600);
   height: 29px;
 }
-.rectangle13 {
+.rectangle219 {
   right: -0.29%;
   left: 100%;
 }
-.rectangle14,
-.rectangle15,
-.rectangle16 {
+.rectangle220,
+.rectangle221,
+.rectangle222 {
   position: absolute;
   width: 100%;
   right: 0;
   left: 0;
 }
-.rectangle14 {
+.rectangle220 {
   top: calc(50% + 179.5px);
   background-color: #8d9096;
   height: 1px;
 }
-.rectangle15,
-.rectangle16 {
+.rectangle221,
+.rectangle222 {
   top: 0;
   height: 29px;
 }
-.rectangle15 {
-  border-radius: var(--br-md);
+.rectangle221 {
+  border-radius: var(--br-sm);
   background-color: #e7e9ec;
 }
-.rectangle16 {
-  border-radius: var(--br-sm);
+.rectangle222 {
+  border-radius: var(--br-xs);
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
 }
 .create-your-dove-market-accoun {
   position: absolute;
   top: 0;
   left: calc(50% - 96px);
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-2xl);
   line-height: 29px;
   font-family: var(--font-roboto);
-  color: var(--color-gray-200);
+  color: var(--color-gray-1300);
   text-align: center;
   display: inline-block;
   width: 192px;
 }
-.frame10,
-.frame11 {
+.frame16,
+.frame17 {
   position: absolute;
   height: 29px;
 }
-.frame11 {
+.frame17 {
   width: 99.43%;
   top: 0;
   right: 0.29%;
   left: 0.29%;
   overflow: hidden;
 }
-.frame10 {
+.frame16 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -366,8 +363,8 @@
   right: 0;
   left: 0;
 }
-.frame,
-.rectangle17 {
+.frame6,
+.rectangle223 {
   position: absolute;
   width: 29.17%;
   top: 63px;
@@ -375,33 +372,33 @@
   left: 35.42%;
   height: 361px;
 }
-.rectangle17 {
+.rectangle223 {
   width: 100%;
   top: 0;
   right: 0;
   left: 0;
   height: 44px;
 }
-.conditions-of-use1,
-.privacy-notice1 {
+.conditions-of-use3,
+.privacy-notice3 {
   text-decoration: none;
   top: 0;
   line-height: 16.11px;
   color: inherit;
   display: inline-block;
 }
-.conditions-of-use1 {
+.conditions-of-use3 {
   position: absolute;
   left: calc(50% - 116px);
   width: 90px;
 }
-.privacy-notice1 {
+.privacy-notice3 {
   left: calc(50% - 3px);
   width: 73px;
 }
-.frame13,
+.frame19,
 .help,
-.privacy-notice1 {
+.privacy-notice3 {
   position: absolute;
 }
 .help {
@@ -413,24 +410,24 @@
   display: inline-block;
   width: 26px;
 }
-.frame13 {
+.frame19 {
   width: 100%;
   top: 26px;
   right: 0;
   left: 0;
   height: 16px;
 }
-.dove-market-inc {
+.dove-market-inc2 {
   position: absolute;
   top: 54px;
   left: calc(50% - 114px);
-  font-size: 10px;
+  font-size: var(--font-size-base);
   line-height: 16.11px;
-  color: #555;
+  color: var(--color-gray-900);
   display: inline-block;
   width: 227px;
 }
-.frame12 {
+.frame18 {
   position: absolute;
   width: 97%;
   top: 450px;
@@ -438,8 +435,8 @@
   left: 1.5%;
   height: 71px;
   text-align: center;
-  font-size: var(--font-size-sm);
-  color: var(--color-indigo);
+  font-size: var(--font-size-lg);
+  color: var(--color-indigo-100);
 }
 .dove-marketlogos-12x-1 {
   text-decoration: none;
@@ -460,7 +457,7 @@
   height: 800px;
   overflow: hidden;
   text-align: left;
-  font-size: var(--font-size-lg);
-  color: var(--color-gray-200);
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-1300);
   font-family: var(--font-roboto);
 }

@@ -3,48 +3,48 @@ import "./SignInPage.css";
 const SignInPage = () => {
   return (
     <div className="sign-in-page">
-      <div className="frame">
-        <div className="frame1">
-          <div className="rectangle" />
-          <div className="frame2">
-            <div className="rectangle1" />
-            <div className="frame3">
-              <div className="rectangle2" />
-              <div className="rectangle3" />
-              <div className="frame4">
-                <button className="rectangle4" />
-                <div className="frame5">
-                  <div className="rectangle5" />
-                  <div className="rectangle6" />
+      <div className="frame6">
+        <div className="frame7">
+          <div className="rectangle206" />
+          <div className="frame8">
+            <div className="rectangle207" />
+            <div className="frame9">
+              <div className="rectangle208" />
+              <div className="rectangle209" />
+              <div className="frame10">
+                <button className="rectangle210" />
+                <div className="frame11">
+                  <div className="rectangle211" />
+                  <div className="rectangle212" />
                   <div className="continue">Continue</div>
                 </div>
               </div>
               <pre className="by-continuing-you-agree-to-do">
                 By continuing, you agree to Dove Market's
               </pre>
-              <div className="frame6">
-                <a className="conditions-of-use" href="/condition-of-use">
+              <div className="frame12">
+                <a className="conditions-of-use2" href="/condition-of-use">
                   Conditions of Use
                 </a>
-                <a className="privacy-notice" href="/privace-policy">
+                <a className="privacy-notice2" href="/privace-policy">
                   Privacy Notice
                 </a>
                 <pre className="and">and</pre>
                 <pre className="pre">.</pre>
               </div>
-              <div className="rectangle7" />
-              <div className="rectangle8" />
+              <div className="rectangle213" />
+              <div className="rectangle214" />
             </div>
-            <div className="sign-in">Sign in</div>
-            <div className="frame7">
+            <div className="sign-in2">Sign in</div>
+            <div className="frame13">
               <a className="need-help" href="/Customer-support-page">
                 Need help?
               </a>
-              <img className="image-icon" alt="" src="../image@2x.png" />
+              <img className="image-icon235" alt="" src="../image236@2x.png" />
             </div>
-            <div className="frame8">
+            <div className="frame14">
               <input
-                className="rectangle9"
+                className="rectangle215"
                 type="text"
                 placeholder="E-mail / Phone Number"
               />
@@ -54,36 +54,36 @@ const SignInPage = () => {
             </div>
           </div>
         </div>
-        <a className="frame9">
-          <div className="rectangle10" />
+        <a className="frame15">
+          <div className="rectangle216" />
           <div className="new-to-dove-market">New to Dove Market?</div>
         </a>
-        <div className="rectangle11" />
-        <div className="rectangle12" />
-        <div className="rectangle13" />
-        <div className="rectangle14" />
-        <button className="frame10">
-          <div className="rectangle15" />
-          <div className="frame11">
-            <div className="rectangle16" />
+        <div className="rectangle217" />
+        <div className="rectangle218" />
+        <div className="rectangle219" />
+        <div className="rectangle220" />
+        <button className="frame16">
+          <div className="rectangle221" />
+          <div className="frame17">
+            <div className="rectangle222" />
             <div className="create-your-dove-market-accoun">
               Create your Dove Market account
             </div>
           </div>
         </button>
       </div>
-      <div className="frame12">
-        <div className="rectangle17" />
-        <div className="frame13">
-          <a className="conditions-of-use1" href="/Conditions-of-use">
+      <div className="frame18">
+        <div className="rectangle223" />
+        <div className="frame19">
+          <a className="conditions-of-use3" href="/Conditions-of-use">
             Conditions of Use
           </a>
-          <a className="privacy-notice1" href="/privacy">
+          <a className="privacy-notice3" href="/privacy">
             Privacy Notice
           </a>
           <a className="help">Help</a>
         </div>
-        <div className="dove-market-inc">© 2022, Dove Market, Inc.</div>
+        <div className="dove-market-inc2">© 2022, Dove Market, Inc.</div>
       </div>
       <a className="dove-marketlogos-12x-1" href="/index.html" />
     </div>
