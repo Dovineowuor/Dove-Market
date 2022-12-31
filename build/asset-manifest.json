@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49936f8f.css",
+    "main.js": "/static/js/main.b951f64e.js",
+    "static/media/dovemarketlogos12x-1@3x.png": "/static/media/dovemarketlogos12x-1@3x.70e078eba1d739576e5e.png",
+    "index.html": "/index.html",
+    "main.49936f8f.css.map": "/static/css/main.49936f8f.css.map",
+    "main.b951f64e.js.map": "/static/js/main.b951f64e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49936f8f.css",
+    "static/js/main.b951f64e.js"
+  ]
+}
