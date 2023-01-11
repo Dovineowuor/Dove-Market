@@ -1,18 +1,14 @@
-const { auth } = require('express-openid-connect');
+const express = require ('express')
+const app = express()
+const MongoClient = require('mongodb').MongoClient
+const connectionString = `mongodb+srv://kenkomu:Kikis216@cluster1.e1w6k7i.mongodb.net/?retryWrites=true&w=majority`
 
-const config = {
-  authRequired: false,
-  auth0Logout: true,
-  secret: 'a long, randomly-generated string stored in env',
-  baseURL: 'http://localhost:3000',
-  clientID: 'DHe8jK7AduglZLitOvdIiRWACkznchPk',
-  issuerBaseURL: 'https://dev-dkwcuyccbc2vzwd6.us.auth0.com'
-};
+MongoClient.connect(connectionString)
+.then(client =>{
+    console.log('Connected to database')
+    const db = client.db('dove-Market')
+    const taskCollection = db.collection('dove-market')
 
-// auth router attaches /login, /logout, and /callback routes to the baseURL
-app.use(auth(config));
-
-// req.isAuthenticated is provided from the auth router
-app.get('/', (req, res) => {
-  res.send(req.oidc.isAuthenticated() ? 'Logged in' : 'Logged out');
-});
+    //CRUD request
+})
+.catch(error => console.error(error))
