@@ -7,7 +7,7 @@ This is a project to build a cloud market to help sellers source clients from th
 
 * Overview 
 
-Dove-Market is a simple e-comerce web application built with Python and Flask that allows sellers and buyers to shuffle and search for houses. The app helps sellers source leads and sales as buyers are able to look for their respective products of need. Users can interact easily with house owners without the interrogation of brokers.
+Dove-Market is a simple e-comerce web application built with Python and Flask that allows sellers and buyers to shuffle and search for houses. The app helps sellers source leads and sales as buyers are able to look for their respective products of need. Users can interact easily with product owners without the interrogation of brokers.
 
 * ## Team
 
