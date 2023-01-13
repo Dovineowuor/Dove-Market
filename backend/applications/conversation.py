@@ -34,3 +34,37 @@ with sunshine_conversations_client.ApiClient(configuration) as api_client:
         pprint(api_response)
     except ApiException as e:
         print("Exception when calling ConversationsApi->create_conversation: %s\n" % e)
+    try:
+        # List Conversations
+        api_response = api_instance.list_conversations(app_id, filter, page=page)
+        pprint(api_response)
+    except ApiException as e:
+        print("Exception when calling ConversationsApi->list_conversations: %s\n" % e)
+
+    try {
+            ConversationResponse result = apiInstance.getConversation(appId, conversationId);
+            System.out.println(result);
+        } catch (ApiException e) {
+            System.err.println("Exception when calling ConversationsApi#getConversation");
+            System.err.println("Status code: " + e.getCode());
+            System.err.println("Reason: " + e.getResponseBody());
+            System.err.println("Response headers: " + e.getResponseHeaders());
+            e.printStackTrace();
+        }
+    try:
+        # Update Conversation
+        api_response = api_instance.update_conversation(app_id, conversation_id, conversation_update_body)
+        pprint(api_response)
+    except ApiException as e:
+        print("Exception when calling ConversationsApi->update_conversation: %s\n" % e)
+
+    try {
+            Object result = apiInstance.deleteConversation(appId, conversationId);
+            System.out.println(result);
+        } catch (ApiException e) {
+            System.err.println("Exception when calling ConversationsApi#deleteConversation");
+            System.err.println("Status code: " + e.getCode());
+            System.err.println("Reason: " + e.getResponseBody());
+            System.err.println("Response headers: " + e.getResponseHeaders());
+            e.printStackTrace();
+        }
